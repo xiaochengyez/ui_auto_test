@@ -1,0 +1,7 @@
+- by: id
+  locator: kw
+- action: send
+  value: "{key}"
+- by: id
+  locator: su
+- action: click
